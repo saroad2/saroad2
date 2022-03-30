@@ -10,6 +10,9 @@ I'm a maintainer at [Beeware](https://github.com/beeware) which is a project tha
 I'm also the founder of the [Eddington](https://github.com/EddLabs) platform which is an open-source platform for data fitting and 
 [Statue](https://github.com/saroad2/statue) which is an orchestration tool for static code analysis.
 
+Besides being a software developer I'm a published poet.
+I wrote three books published in Israel named *"Mountains and Hills"* (2018), *"The Emissary"* (2020) and *"Mad New World"* (2022).
+
 You can contact me via email at saroad2@gmail.com
 <!---
 saroad2/saroad2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
