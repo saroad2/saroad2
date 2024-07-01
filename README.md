@@ -1,19 +1,21 @@
-Hi, my name is Sagi Shadur.
+Hi, my name is Sagi Buchbinder-Shadur.
 
-I'm a software developer from Israel. Nowadays I mostly write code in Python, but I have a rich experience writing code in Java and C++.
-I'm working as a Machine Learning Team Lead at Proxima Investments Inc.
+I'm a software engineer originally from Israel who now resides in Atlanta, USA.
+Since February 2024, I have worked as a Senior Software Engineer at Microsoft's High-Performance Computing division, 
+leading machine learning research and Co-Pilot integration.
 
-I LOVE open source. I believe that open source code is our way as humanity to share knowledge and power with everyone, everywhere at everytime.
-Along the years I've contributed code to many open source projects and I try to do that as frequently as I can.
+As a coder, I mostly write code in Python nowadays, but I have rich experience writing code in Java and C++.
 
-I'm a maintainer at [Beeware](https://github.com/beeware) which is a project that truely dear to me.
-I'm also the founder of the [Eddington](https://github.com/EddLabs) platform which is an open-source platform for data fitting and 
-[Statue](https://github.com/saroad2/statue) which is an orchestration tool for static code analysis.
+I LOVE open source. I believe that open-source code is humanity's way of sharing knowledge and power with everyone, everywhere, at all times.
+Over the years, I've contributed code to many open-source projects and do that as frequently as possible.
 
-Besides being a software developer I'm a published poet.
-I wrote three books published in Israel named *"Mountains and Hills"* (2018), *"The Emissary"* (2020) and *"Mad New World"* (2022).
+I'm the founder of the [Eddington](https://github.com/EddLabs) platform, an open-source data fitting platform, 
+and [Statue](https://github.com/saroad2/statue), an orchestration tool for static code analysis.
 
-You can contact me via email at saroad2@gmail.com
+My creativity extends beyond software development. 
+I'm also a published poet, with three Hebrew poetry books to my name: "Mountains and Hills" (2018), "The Emissary" (2020), and "Mad New World" (2022), all published in Israel.
+
+You can contact me via email at saroad2@gmail.com or via LinkedIn at https://www.linkedin.com/in/sagi-shadur/.
 <!---
 saroad2/saroad2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
